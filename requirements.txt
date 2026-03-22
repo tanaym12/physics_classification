@@ -8,3 +8,6 @@ pandas
 scikit-learn
 scipy
 seaborn
+keras-tuner
+scikeras
+tensorflow
