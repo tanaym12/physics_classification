@@ -84,3 +84,19 @@ Despite expectations that the Neural Network would outperform the Decision Tree 
 
 Contributions and improvements are welcome! 🚀
 
+
+## Environment Setup
+To run the notebooks locally, create a virtual environment and install the project dependencies:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+After installation, you can launch Jupyter and open the notebooks:
+
+```bash
+jupyter notebook
+```
