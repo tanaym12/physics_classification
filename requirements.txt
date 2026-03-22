@@ -1,0 +1,10 @@
+h5py
+ipykernel
+jupyter
+matplotlib
+nbformat
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
